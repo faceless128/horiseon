@@ -43,11 +43,13 @@ nav ul li {
     margin-left: 25px;
 }
 
+/* styles for <a> element */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* styles for <p> element */
 p {
     font-size: 16px;
 }
@@ -62,7 +64,6 @@ p {
     background-position: center;
 }
 
-
 /* styles for images in main body */
 .float-left {
     float: left;
@@ -74,6 +75,7 @@ p {
     margin-left: 25px;
 }
 
+/* styles for main body */
 .content {
     width: 75%;
     display: inline-block;
